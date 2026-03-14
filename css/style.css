@@ -127,6 +127,11 @@ body {
     max-width: 450px;
 }
 
+.current-page .gallery-item .caption-header {
+    font-family: var(--font-heading);
+    font-size: 1.125rem;
+}
+
 .gallery-item .caption {
     margin-top: 0.5rem;
     font-size: 0.85rem;
